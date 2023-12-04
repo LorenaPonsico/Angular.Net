@@ -1,0 +1,31 @@
+p {
+    font-family: 'Caprasimo', serif;
+    font-size: 25px;
+    color: #cdd0d4
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+hr {
+    border-width: 3px;
+    max-width: 65px;
+    border-color: #F05F44;
+}
+
+.btn-sm {
+    background-color: #F05F44;
+    border-color: #F05F44;
+    margin: 10px;
+    padding: 1rem 2rem;
+    border-radius: 100px;
+}
+
+.btn-sm:hover {
+    background-color: #F05F44;
+    border-width: 4px;
+}
